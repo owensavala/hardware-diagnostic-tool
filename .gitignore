@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Build Artifacts
+build/
+dist/
+*.exe
+*.manifest
+*.spec
+
+# Generated Diagnostic & Benchmark Reports
+Diagnosa_Hardware_*.txt
+Laporan_Hardware_*.html
+*.tmp
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Environment Variables & Secrets
+.env
+.env.local
+
+# Operating System
+.DS_Store
+Thumbs.db
